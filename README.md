@@ -1,7 +1,7 @@
 # PCA: EXP-1  SUM ARRAY GPU
-<h3>ENTER YOUR NAME</h3>
-<h3>ENTER YOUR REGISTER NO</h3>
-<h3>EX. NO</h3>
+<h3>ENTER YOUR NAME:Nivetha A</h3>
+<h3>ENTER YOUR REGISTER NO:212222230101</h3>
+<h3>EX. NO:1</h3>
 <h3>DATE</h3>
 <h1> <align=center> SUM ARRAY ON HOST AND DEVICE </h3>
 PCA-GPU-based-vector-summation.-Explore-the-differences.
@@ -242,14 +242,16 @@ int main(int argc, char **argv)
     return(0);
 ```
 ## OUTPUT:
-
+### Block Size = 1024
 ![image](https://github.com/user-attachments/assets/5f164165-e722-453c-b720-6e7281694e95)
 
-
+### Block Size = 512
 ![image](https://github.com/user-attachments/assets/e445508d-757e-4692-bcc6-7837271f9579)
 
+### Block Size = 256
 ![image](https://github.com/user-attachments/assets/6191321e-0878-45dc-b21b-6c33377ab627)
 
+### Block Size = 1023
 ![image](https://github.com/user-attachments/assets/e8e2309f-6ab3-4c13-bcaf-34c4b2e9f74f)
 
 ## RESULT:
