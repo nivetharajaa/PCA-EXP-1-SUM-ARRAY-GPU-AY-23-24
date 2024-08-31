@@ -245,7 +245,7 @@ int main(int argc, char **argv)
 ### Block Size = 1024
 ![image](https://github.com/user-attachments/assets/5f164165-e722-453c-b720-6e7281694e95)
 
-### Block Size = 512
+### Block Size = 526
 ![image](https://github.com/user-attachments/assets/e445508d-757e-4692-bcc6-7837271f9579)
 
 ### Block Size = 256
